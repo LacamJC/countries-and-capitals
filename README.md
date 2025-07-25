@@ -1,4 +1,4 @@
-# Countries & Capitals 
+# 🌍 Countries & Capitals 
 *Laravel, Blade Components*
 
 Quiz interativo de múltipla escolha sobre as capitais de diversos países.
