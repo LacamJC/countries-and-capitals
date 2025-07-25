@@ -1,5 +1,5 @@
 # Countries & Capitals 
-| Laravel | Blade Components | 
+*Laravel, Blade Components*
 
 Quiz interativo de múltipla escolha sobre as capitais de diversos países.
 
@@ -8,7 +8,7 @@ O projeto permite que o usuário selecionar a quantidade de perguntas que ele de
 Ao fim do quiz, o sistema exibe uma análise com os resultados mostrando ao usuário a quantidade de perguntas que foram corretamente respondidas ou não.
 
 
-## Funcionalidades 
+## ✨ Funcionalidades 
 
 - Seleção da quantidade de perguntas 
 - Randomização de um array de informações sobre os Países
